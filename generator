@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Start Builder
+flutter pub run build_runner watch --delete-conflicting-outputs

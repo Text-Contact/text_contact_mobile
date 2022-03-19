@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+flutter run --debug --dart-define=IHP_WEBSOCKET_URL=wss://textcontact.ngrok.io/DataSyncController
