@@ -1,14 +1,14 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'main.dart';
+part of 'dashboard.dart';
 
 // **************************************************************************
 // FunctionalWidgetGenerator
 // **************************************************************************
 
-class Application extends StatelessWidget {
-  const Application({Key? key}) : super(key: key);
+class Dashboard extends HookWidget {
+  const Dashboard({Key? key}) : super(key: key);
 
   @override
-  Widget build(BuildContext _context) => application();
+  Widget build(BuildContext _context) => dashboard();
 }
